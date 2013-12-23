@@ -1,0 +1,22 @@
+{
+    "name"        : "regexp-escape",
+    "author"      : "James Nylen <jnylen@gmail.com>",
+    "description" : "Provides RegExp.escape function for quoting text for a regular expression.",
+    "version"     : "0.0.1",
+    "repository"  : {
+        "type" : "git",
+        "url"  : "https://github.com/nylen/node-regexp-escape"
+    },
+    "bugs" : {
+        "url" : "https://github.com/nylen/node-regexp-escape/issues"
+    },
+    "license"  : "MIT",
+    "keywords" : [
+        "regular",
+        "expression",
+        "regexp",
+        "escape"
+    ],
+    "main"         : "./index.js",
+    "dependencies" : {}
+}
